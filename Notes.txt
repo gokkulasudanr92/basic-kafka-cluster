@@ -1,0 +1,9 @@
+SUBNET
+======
+1. 172.31.0.0 ---> us-east-2a
+2. 172.31.16.0 ----> us-east-2b
+3. 172.31.32.0 ----> us-east-2c
+
+Zookeeper Four letter words:
+============================
+https://zookeeper.apache.org/doc/current/zookeeperAdmin.html#sc_zkCommands
